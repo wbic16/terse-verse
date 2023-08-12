@@ -8,8 +8,7 @@ Welcome to the Terse-Verse!
 2. Extract/Run extract-terseverse.ps1
 3. Download Terse Notepad
 
-Experiment with text-only hierarchical CSV databases!
+## Examples
 
-Technically everything you need to understand how CSV files are packed into terse databases is in the self-describing terseverse.t file!
-
-Enjoy!
+* terseverse.t: Embedded CSV Files
+* rubiks-cube.t: Exploring solution sets for Rubik's cubes
